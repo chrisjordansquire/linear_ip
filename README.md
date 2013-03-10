@@ -5,6 +5,9 @@ This is a straight-forward, no frills implementation of the interior point
 linear programming algorithm described in Section 14.2 of "Numerical 
 Optimization" by Nocedal and Wright. 
 
+NOTE: This code is not stable. This is currently a toy project, and both
+API and ABI breakages will occur as I tweak it. 
+
 Building
 ========
 
