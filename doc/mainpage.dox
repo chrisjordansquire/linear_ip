@@ -1,0 +1,12 @@
+/**
+\mainpage  linear_ip
+
+linear_ip is a simple interior point solver for linear programs of the form
+\f{eqnarray*}{
+\min_x \quad&& c^Tx\\
+&&Ax=b\\
+&&x\geq 0.
+\f}
+The predictor-corrector method described in Section 14.2 of Nocedal and Wright's Numerical Optimization is implemented. 
+
+*/

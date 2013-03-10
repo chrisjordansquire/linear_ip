@@ -1,0 +1,19 @@
+#Compiled Sources#
+##################
+*.o
+*.so
+*.out
+*.dylib
+*.exe
+*.mod
+*.html
+
+#Generated Files#
+#################
+*~
+.*
+
+#Build Directories#
+###################
+bin/
+build/
