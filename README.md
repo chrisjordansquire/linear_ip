@@ -8,6 +8,19 @@ Optimization" by Nocedal and Wright.
 NOTE: This code is not stable. This is currently a toy project, and both
 API and ABI breakages will occur as I tweak it. 
 
+Downloading
+===========
+You can download this library from its github repository. 
+
+    $git clone https://github.com/chrisjordansquire/linear_ip.git
+
+Requirements
+============
+linear_ip uses Eigen as its matrix library, CMake to create build scripts, and Google Test for its test suite. You can download find more information about
+these packages from their homepages at, respectively, www.cmake.org, 
+eigen.tuxfamily.org, and code.google.com/p/googletest/. 
+
+
 Building
 ========
 
